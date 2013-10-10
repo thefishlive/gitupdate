@@ -1,1 +1,6 @@
+.settings/
 target/
+git/
+dependecy-reduced-pom.xml
+.project
+.classpath
