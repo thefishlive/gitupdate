@@ -4,3 +4,4 @@ git/
 dependecy-reduced-pom.xml
 .project
 .classpath
+/dependency-reduced-pom.xml
